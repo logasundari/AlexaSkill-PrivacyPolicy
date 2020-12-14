@@ -10,7 +10,7 @@ we use it to understand what our skill should do for your request. This is absol
 <h3>Information Collection and Use</h3>
 <p>As part of voice communication, we do not collect or share any personal data by our skills.
 To improve our services, we analyse automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal.</p>
-<h3> Children’s Privacy </3>
+<h3> Children’s Privacy </h3>
 <p>The skills do not address anyone under the age of 13 and the skill do not collect personally identifiable information from children under 13. </p>
 
 <h3>Changes to this Privacy Policy</h3>
