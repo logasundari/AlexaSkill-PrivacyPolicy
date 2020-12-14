@@ -1,6 +1,6 @@
 <h1> Alexa Skill Privacy Policy </h1>
 <h5>Last Updated on 14/12/2020</h5>
-<p>This Alexa skill privacy policy describes how Tamil Calendar (Logasundari) (“Logasundari”,” Skill”,” Us”, or “I”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our Alexa Skills Terms of Use, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
+<p>This Alexa skill privacy policy describes how Logasundari (“Logasundari”,” Skill”,” Us”, or “I”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our Alexa Skills Terms of Use, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
 Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
 If you use one of our skills you fully agree to this privacy policy.</p>
 
